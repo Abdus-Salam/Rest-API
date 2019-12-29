@@ -44,7 +44,7 @@ We will need to make sure our server meets the following requirements:
  Headers <br>
  `Content-Type:application/json` <br>
  Body <br>
-``` <pre> 
+<pre> 
 [
      {
         "success": true,
@@ -61,7 +61,7 @@ We will need to make sure our server meets the following requirements:
         ]
     }
  ] 
-</pre>```
+</pre>
 
 
 
@@ -73,7 +73,7 @@ We will need to make sure our server meets the following requirements:
  Headers <br>
  `Content-Type:application/json` <br>
  Body <br>
-``` <pre> 
+    <pre> 
  [
      {
         "success": true,
@@ -85,7 +85,7 @@ We will need to make sure our server meets the following requirements:
             }
         ]
     }
-]```
+]
 
 </pre>
 
@@ -97,12 +97,11 @@ Request <br>
  Headers <br>
  `Content-Type:application/json` <br>
  Body <br>
-``` <pre> 
+ <pre> 
    {
 	"key" : "2",
 	"value" : "secret key of the value"
    }
-```
 </pre>
 
 
