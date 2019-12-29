@@ -73,7 +73,7 @@ We will need to make sure our server meets the following requirements:
  Headers <br>
  `Content-Type:application/json` <br>
  Body <br>
-    <pre> 
+<pre> 
  [
      {
         "success": true,
