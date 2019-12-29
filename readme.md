@@ -35,7 +35,7 @@ We will need to make sure our server meets the following requirements:
 `PATCH /values` `http://localhost:8000/api/v1/values/key`
 
 
-### Collections
+### Collections Example
  ##### list of all records
  
  `GET /values` `http://localhost:8000/api/v1/values` <br>
