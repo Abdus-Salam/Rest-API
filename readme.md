@@ -64,7 +64,8 @@ We will need to make sure our server meets the following requirements:
 </pre>
 
 
- ##### GET value by key
+
+##### GET value by key
  
  `GET /values?keys=key1,key2` `http://localhost:8000/api/v1/values?keys=2` <br>
  Response <br>
@@ -85,6 +86,7 @@ We will need to make sure our server meets the following requirements:
         ]
     }
 ]```
+
 </pre>
 
 ##### Save a value
