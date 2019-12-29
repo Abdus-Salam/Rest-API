@@ -60,8 +60,8 @@ We will need to make sure our server meets the following requirements:
             }
         ]
     }
- ] ```
-</pre>
+ ] 
+</pre>```
 
 
 
